@@ -1,0 +1,139 @@
+/* [project]/app/globals.css [app-client] (css) */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #f3f3f3;
+  background: linear-gradient(135deg, #080812, #15152a, #050509);
+  min-height: 100vh;
+  margin: 0;
+  font-family: Georgia, Times New Roman, serif;
+}
+
+button {
+  font-family: inherit;
+}
+
+.page {
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 24px;
+  display: flex;
+}
+
+.card {
+  background: #0a0a19e0;
+  border: 1px solid #ffffff2e;
+  border-radius: 22px;
+  width: 100%;
+  max-width: 850px;
+  padding: 36px;
+  box-shadow: 0 0 35px #0009;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  margin-top: 0;
+}
+
+h1 {
+  letter-spacing: 1px;
+  font-size: 2.4rem;
+}
+
+.subtitle {
+  text-align: center;
+  color: #cfcfe8;
+  margin-bottom: 28px;
+  font-style: italic;
+}
+
+.explanation {
+  color: #e7e7f7;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.questionNumber {
+  color: #b9b9ff;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: .95rem;
+}
+
+.scenario {
+  text-align: center;
+  margin-bottom: 28px;
+  font-size: 1.35rem;
+  line-height: 1.5;
+}
+
+.answers {
+  gap: 14px;
+  display: grid;
+}
+
+.answerButton, .centerButton {
+  color: #fff;
+  cursor: pointer;
+  text-align: left;
+  background: #ffffff14;
+  border: 1px solid #ffffff38;
+  border-radius: 14px;
+  padding: 15px 18px;
+  font-size: 1rem;
+  transition: all .2s;
+}
+
+.answerButton:hover, .centerButton:hover {
+  background: #b9b9ff38;
+  transform: translateY(-2px);
+}
+
+.centerButton {
+  text-align: center;
+  width: fit-content;
+  margin: 24px auto 0;
+  padding: 14px 24px;
+  display: block;
+}
+
+.resultBox {
+  background: #ffffff14;
+  border-left: 4px solid #b9b9ff;
+  border-radius: 12px;
+  margin-top: 18px;
+  padding: 20px;
+  line-height: 1.7;
+}
+
+.scoreList {
+  margin-top: 18px;
+  line-height: 1.8;
+}
+
+.smallNote {
+  color: #c9c9dd;
+  text-align: center;
+  margin-top: 24px;
+  font-size: .92rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .card {
+    padding: 24px;
+  }
+
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  .scenario {
+    font-size: 1.15rem;
+  }
+}
+
+/*# sourceMappingURL=app_globals_0jn8.0u.css.map*/

@@ -1,0 +1,25 @@
+# The Shadow Mind Projection Test
+
+A Next.js + React + TypeScript interactive AP Psychology projection test.
+
+## How to run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Then open:
+
+```text
+http://localhost:3000
+```
+
+## How to deploy to Vercel
+
+1. Upload this folder to GitHub.
+2. Go to Vercel.
+3. Import the GitHub repo.
+4. Click Deploy.
+
+The default Vercel settings for Next.js should work automatically.
