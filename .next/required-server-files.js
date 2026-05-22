@@ -9,7 +9,7 @@ self.__SERVER_FILES_MANIFEST={
     "typedRoutes": false,
     "distDir": ".next",
     "cleanDistDir": true,
-    "assetPrefix": "/shadow-mind-projection-test",
+    "assetPrefix": "/psych2",
     "cacheMaxMemorySize": 52428800,
     "configOrigin": "next.config.ts",
     "useFileSystemPublicRoutes": true,
@@ -42,7 +42,7 @@ self.__SERVER_FILES_MANIFEST={
         256,
         384
       ],
-      "path": "/shadow-mind-projection-test/_next/image",
+      "path": "/psych2/_next/image",
       "loader": "default",
       "loaderFile": "",
       "domains": [],
@@ -77,7 +77,7 @@ self.__SERVER_FILES_MANIFEST={
       "maxInactiveAge": 60000,
       "pagesBufferLength": 5
     },
-    "basePath": "/shadow-mind-projection-test",
+    "basePath": "/psych2",
     "sassOptions": {},
     "trailingSlash": false,
     "i18n": null,
@@ -105,7 +105,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\psych2\\psych2",
+    "outputFileTracingRoot": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\psych2",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -305,11 +305,11 @@ self.__SERVER_FILES_MANIFEST={
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\psych2\\psych2"
+      "root": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\psych2"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\psych2\\psych2",
+  "appDir": "C:\\Users\\chris\\OneDrive\\Documents\\GitHub\\psych2",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

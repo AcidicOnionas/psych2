@@ -1,11 +1,14 @@
 import type { NextConfig } from "next";
 
-const repoName = "/shadow-mind-projection-test";
+const repoName = "/psych2";
+const isProductionBuild = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: repoName,
-  assetPrefix: repoName,
+  ...(isProductionBuild && {
+    basePath: repoName,
+    assetPrefix: repoName,
+  }),
   images: {
     unoptimized: true,
   },

@@ -3,16 +3,16 @@
   "pages404": true,
   "appType": "app",
   "caseSensitive": false,
-  "basePath": "/shadow-mind-projection-test",
+  "basePath": "/psych2",
   "redirects": [
     {
-      "source": "/shadow-mind-projection-test/",
-      "destination": "/shadow-mind-projection-test",
+      "source": "/psych2/",
+      "destination": "/psych2",
       "basePath": false,
       "internal": true,
       "priority": true,
       "statusCode": 308,
-      "regex": "^/shadow-mind-projection-test/$"
+      "regex": "^/psych2/$"
     },
     {
       "source": "/:path+/",

@@ -5,7 +5,7 @@
 
 body {
   color: #f3f3f3;
-  background: linear-gradient(135deg, #080812, #15152a, #050509);
+  background: linear-gradient(#080812bf, #080812f2), #080812 url("../media/mansion.0ricm2s4i.o0b.jpg") center / cover no-repeat fixed;
   min-height: 100vh;
   margin: 0;
   font-family: Georgia, Times New Roman, serif;
@@ -24,7 +24,7 @@ button {
 }
 
 .card {
-  background: #0a0a19e0;
+  background: #484a584d;
   border: 1px solid #ffffff2e;
   border-radius: 22px;
   width: 100%;

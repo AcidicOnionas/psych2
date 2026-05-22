@@ -1,2 +1,2 @@
-:HL["/shadow-mind-projection-test/_next/static/chunks/09p44back-rv9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"i6vqp8jPrY0BShGxqT1Rg"}
+:HL["/psych2/_next/static/chunks/0aith8gsacd3j.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"VWgFp7JeKeJVANap_D7YD"}

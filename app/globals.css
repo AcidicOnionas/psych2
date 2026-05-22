@@ -6,7 +6,9 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: Georgia, "Times New Roman", serif;
-  background: linear-gradient(135deg, #080812, #15152a, #050509);
+  background:
+    linear-gradient(rgba(8, 8, 18, 0.75), rgba(8, 8, 18, 0.95)),
+    #080812 url("../assets/mansion.jpg") center center / cover no-repeat fixed;
   color: #f3f3f3;
 }
 
@@ -25,7 +27,7 @@ button {
 .card {
   width: 100%;
   max-width: 850px;
-  background: rgba(10, 10, 25, 0.88);
+  background: rgba(72, 74, 88, 0.3);
   border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 22px;
   padding: 36px;
